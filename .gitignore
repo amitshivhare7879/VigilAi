@@ -8,8 +8,13 @@ __pycache__/
 Thumbs.db
 server_temp_*
 temp_*
+ui_temp_cache_*
 
 # Test assets (Keep repository clean)
 *.mp4
+*.avi
+*.mov
+*.mkv
 *.jpg
+*.jpeg
 *.png
