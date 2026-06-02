@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# System / Temp Files
+.DS_Store
+Thumbs.db
+server_temp_*
+temp_*
+
+# Test assets (Keep repository clean)
+*.mp4
+*.jpg
+*.png
